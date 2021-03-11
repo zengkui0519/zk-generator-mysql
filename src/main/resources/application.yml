@@ -1,0 +1,6 @@
+datasource:
+  driverClassName: com.mysql.jdbc.Driver
+  url: jdbc:mysql://8.129.124.238:3306/zk-base-dev?serverTimezone=UTC&useUnicode=true&characterEncoding=UTF-8&zeroDateTimeBehavior=convertToNull
+  username: root
+  password: Yang.0519
+
